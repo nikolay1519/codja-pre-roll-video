@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CODJA Pre-Roll Video\n"
+"POT-Creation-Date: 2017-11-23 11:48+0200\n"
+"PO-Revision-Date: 2017-11-23 11:49+0200\n"
+"Last-Translator: kaliyan <nikolay1519@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: codja-pre-roll-video.php:86
+msgid "Skip →"
+msgstr ""
+
+#: codja-pre-roll-video.php:260 templates/admin/category_meta.php:1
+#: templates/admin/settings_page.php:2
+msgid "Pre-Roll Video Settings"
+msgstr ""
+
+#: codja-pre-roll-video.php:297 codja-pre-roll-video.php:298
+msgid "Pre-Roll Video"
+msgstr ""
+
+#: codja-pre-roll-video.php:323
+msgid "Unidentified link. Only Youtube and Vimeo links are supported."
+msgstr ""
+
+#: codja-pre-roll-video.php:329
+msgid "Failed to get video link."
+msgstr ""
+
+#: codja-pre-roll-video.php:333
+msgid "Settings successfully saved. Commercial video:"
+msgstr ""
+
+#: codja-pre-roll-video.php:337
+msgid "Settings successfully saved"
+msgstr ""
+
+#: templates/admin/category_meta.php:16
+msgid "Disable Pre-Roll for this category"
+msgstr ""
+
+#: templates/admin/category_meta.php:23
+msgid "Pre-Roll video for this category"
+msgstr ""
+
+#: templates/admin/category_meta.php:26 templates/admin/post_meta.php:20
+#: templates/admin/settings_page.php:21
+msgid "Supported links:"
+msgstr ""
+
+#: templates/admin/post_meta.php:14
+msgid "Disable Pre-Roll for this post"
+msgstr ""
+
+#: templates/admin/settings_page.php:6
+msgid "Enable Pre-Roll"
+msgstr ""
+
+#: templates/admin/settings_page.php:10
+msgid "Time to allow skip pre-roll"
+msgstr ""
+
+#: templates/admin/settings_page.php:13
+msgid ""
+"The time in seconds until the skip pre-roll button appears. If the value is "
+"0, the button will appear immediately."
+msgstr ""
+
+#: templates/admin/settings_page.php:18
+msgid "Default pre-roll video"
+msgstr ""
+
+#: templates/admin/settings_page.php:26
+msgid "Save"
+msgstr ""

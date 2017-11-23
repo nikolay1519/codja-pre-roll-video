@@ -1,0 +1,23 @@
+#cj_pre_roll_video {}
+
+#cj_pre_roll_video span.spinner {
+    float: none;
+}
+
+.cj_pre_roll_video__result {
+    max-width: 500px;
+    display: none;
+    margin: 0 0 10px;
+}
+
+.cj_pre_roll_video__result.e {
+    color: #D95F5F;
+}
+.cj_pre_roll_video__result.s {
+    color: #008000;
+}
+
+.cj_pre_roll_video__result video {
+    width: 100%;
+    height: auto;
+}
